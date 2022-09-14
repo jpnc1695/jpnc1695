@@ -11,7 +11,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordma
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="45" height="45"/>
 
 
-:books: No momento estou estudando Vue.js e Bancos de dados
+:books: No momento estou estudando Reactjs e NodeJs
 
 :office: Procura oportunidades na área de tecnlogia após trabalhar nos setores
          adminstrativos e financeiros
